@@ -296,7 +296,7 @@ html * {
 }
 
 .reveal img {
-  margin: var(--r-block-margin) 0;
+  margin: 0px;
 }
 
 /*********************************************
